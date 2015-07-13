@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>294eb9bc-10f1-4257-b9c3-434df0e331ed</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>testfile.xlsx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\Mikedemo1</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>48c9a516-b559-44ac-9594-3bd68b293b4e</guid>
+    <guid>621a94fd-613e-425e-962a-a8fb7f98d90e</guid>
+  </Tags>
+</FolderEntryTags>
